@@ -482,6 +482,11 @@
               <FileType>1</FileType>
               <FilePath>.\Application\src\sht21.c</FilePath>
             </File>
+            <File>
+              <FileName>app_i2c.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Application\src\app_i2c.c</FilePath>
+            </File>
           </Files>
         </Group>
       </Groups>

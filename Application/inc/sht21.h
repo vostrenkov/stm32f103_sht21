@@ -17,3 +17,4 @@ float SHT21_ReadTemp (void);
 float SHT21_ReadHumidity (void);
 
 #endif
+

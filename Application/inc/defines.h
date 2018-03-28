@@ -10,6 +10,7 @@
 #include "stm32f10x_rcc.h"
 #include "stm32f10x_tim.h"
 
+#include "app_i2c.h"
 #include "sht21.h"
 
 #endif
